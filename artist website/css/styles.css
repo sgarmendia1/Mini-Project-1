@@ -421,3 +421,8 @@ textarea:focus {
     padding: 1.4rem;
   }
 }
+.artist-card-link{
+text-decoration:none;
+color:inherit;
+display:block;
+}
